@@ -1,0 +1,68 @@
+indicator,practice,moderator,k,studies,QM,QM_df1,QM_df2,QM_p,QM_p_holm,pseudo_R2
+Aggregate stability,Cover crop,Koppen climate zone,118,15,0.935,1,116,0.3356,1,3.06
+Aggregate stability,Cover crop,Soil texture,115,15,4.856,1,13,0.04619,1,48.62
+Aggregate stability,Cover crop,Years under practice (class),123,16,0.3775,2,50,0.6875,1,0
+Aggregate stability,Cover crop,Sampling depth (class),119,15,1.609,1,117,0.2072,1,0
+Aggregate stability,Cover crop,Years under practice (per year),123,16,0.1838,1,121,0.6689,1,0
+Aggregate stability,Cover crop,Depth midpoint (per cm),121,15,3.85,1,119,0.05208,1,0
+Bulk density,Cover crop,Koppen climate zone,545,37,0.3324,2,34,0.7195,1,0
+Bulk density,Cover crop,Soil texture,521,37,0.7762,2,199,0.4615,1,2.4
+Bulk density,Cover crop,Years under practice (class),560,37,0.6853,2,557,0.5044,1,2.001
+Bulk density,Cover crop,Sampling depth (class),548,36,0.5658,2,545,0.5682,1,2.295
+Bulk density,Cover crop,Years under practice (per year),560,37,0.2738,1,558,0.601,1,0
+Bulk density,Cover crop,Depth midpoint (per cm),548,36,0.05287,1,546,0.8182,1,0
+Bulk density,Organic management,Koppen climate zone,89,26,1.547,1,24,0.2256,1,3.425
+Bulk density,Organic management,Soil texture,79,23,0.1191,2,20,0.8884,1,0
+Bulk density,Organic management,Years under practice (class),109,28,0.5772,2,106,0.5632,1,2.642
+Bulk density,Organic management,Sampling depth (class),109,28,0.1234,2,85,0.8841,1,0
+Bulk density,Organic management,Land use,109,28,1.785,1,86,0.1851,1,1.178
+Bulk density,Organic management,Mean annual precipitation (per 100 mm),86,25,0.376,1,69,0.5417,1,0
+Bulk density,Organic management,Mean annual temperature (per 1 C),83,24,7.325,1,66,0.008646,0.5188,28.85
+Bulk density,Organic management,Years under practice (per year),109,28,0.9022,1,107,0.3443,1,0.7594
+Bulk density,Organic management,Depth midpoint (per cm),109,28,0.5353,1,86,0.4664,1,0
+Microbial biomass C,Cover crop,Koppen climate zone,172,19,1.663,1,17,0.2144,1,3.745
+Microbial biomass C,Cover crop,Soil texture,172,19,0.4398,2,61,0.6462,1,0
+Microbial biomass C,Cover crop,Years under practice (class),176,20,1.594,2,65,0.2109,1,0
+Microbial biomass C,Cover crop,Sampling depth (class),176,20,0.8434,2,65,0.4349,1,0
+Microbial biomass C,Cover crop,Years under practice (per year),176,20,1.756,1,174,0.1869,1,0
+Microbial biomass C,Cover crop,Depth midpoint (per cm),176,20,1.712,1,66,0.1953,1,0
+Microbial biomass C,Organic management,Koppen climate zone,108,18,0.08337,1,16,0.7765,1,0
+Microbial biomass C,Organic management,Soil texture,110,18,1.355,2,74,0.2644,1,1.257
+Microbial biomass C,Organic management,Years under practice (class),121,20,0.09028,2,85,0.9138,1,0
+Microbial biomass C,Organic management,Sampling depth (class),121,20,0.0234,2,17,0.9769,1,0
+Microbial biomass C,Organic management,Mean annual precipitation (per 100 mm),104,17,0.1133,1,70,0.7375,1,0
+Microbial biomass C,Organic management,Mean annual temperature (per 1 C),74,13,0.1954,1,49,0.6604,1,0
+Microbial biomass C,Organic management,Years under practice (per year),121,20,0.3883,1,119,0.5344,1,0
+Microbial biomass C,Organic management,Depth midpoint (per cm),121,20,0.3286,1,86,0.568,1,0
+SOC concentration,Cover crop,Koppen climate zone,885,60,0.2212,2,57,0.8023,1,0
+SOC concentration,Cover crop,Soil texture,748,55,1.454,2,300,0.2354,1,0.06123
+SOC concentration,Cover crop,Years under practice (class),901,60,2.545,2,898,0.07902,1,2.5
+SOC concentration,Cover crop,Sampling depth (class),889,60,4.34,2,886,0.01332,0.7725,0.1227
+SOC concentration,Cover crop,Land use,905,62,1.577,1,333,0.21,1,0
+SOC concentration,Cover crop,Mean annual precipitation (per 100 mm),284,16,8.766,1,72,0.004154,0.2575,2.539
+SOC concentration,Cover crop,Years under practice (per year),901,60,6.956,1,899,0.008496,0.5183,5.731
+SOC concentration,Cover crop,Depth midpoint (per cm),889,60,10.57,1,887,0.001194,0.07761,0.7045
+SOC concentration,Organic management,Koppen climate zone,316,74,0.1966,3,70,0.8984,1,0
+SOC concentration,Organic management,Soil texture,243,60,1.698,2,179,0.1859,1,0
+SOC concentration,Organic management,Years under practice (class),316,74,2.844,2,313,0.05967,1,1.423
+SOC concentration,Organic management,Sampling depth (class),316,74,9.764,2,313,7.705e-5,0.005085,0
+SOC concentration,Organic management,Land use,316,74,0.01318,1,237,0.9087,1,0
+SOC concentration,Organic management,Mean annual precipitation (per 100 mm),254,59,5.176,1,191,0.02401,1,0.04647
+SOC concentration,Organic management,Mean annual temperature (per 1 C),217,53,3.464,1,163,0.06453,1,3.565
+SOC concentration,Organic management,Years under practice (per year),316,74,5.839,1,314,0.01624,0.926,3.806
+SOC concentration,Organic management,Depth midpoint (per cm),316,74,22.49,1,314,3.203e-6,2.146e-4,0
+SOC stock,Cover crop,Koppen climate zone,428,19,0.4773,1,17,0.499,1,0
+SOC stock,Cover crop,Soil texture,384,19,0.9168,2,120,0.4026,1,0
+SOC stock,Cover crop,Years under practice (class),446,20,4.001,2,443,0.01895,1,9.007
+SOC stock,Cover crop,Sampling depth (class),448,21,1.034,2,137,0.3585,1,0
+SOC stock,Cover crop,Years under practice (per year),446,20,2.094,1,444,0.1486,1,0
+SOC stock,Cover crop,Depth midpoint (per cm),448,21,1.874,1,446,0.1717,1,2.006
+SOC stock,Organic management,Koppen climate zone,148,42,0.2066,2,113,0.8136,1,0
+SOC stock,Organic management,Soil texture,123,34,0.7923,2,88,0.456,1,0
+SOC stock,Organic management,Years under practice (class),148,42,6.011,2,145,0.003104,0.1956,5.755
+SOC stock,Organic management,Sampling depth (class),148,42,2.603,2,113,0.07851,1,0
+SOC stock,Organic management,Land use,148,42,0.1877,1,114,0.6656,1,0.1451
+SOC stock,Organic management,Mean annual precipitation (per 100 mm),139,39,1.507,1,105,0.2224,1,1.179
+SOC stock,Organic management,Mean annual temperature (per 1 C),135,37,1.768,1,101,0.1867,1,3.061
+SOC stock,Organic management,Years under practice (per year),148,42,10.54,1,146,0.001451,0.09284,4.671
+SOC stock,Organic management,Depth midpoint (per cm),148,42,6.357,1,146,0.01276,0.753,0

@@ -1,0 +1,5 @@
+figshare record: SoilHealthDB doi:10.6084/m9.figshare.8292176.v8 license:CC0
+zip: SoilHealthDB.zip size=127854836 md5=68719dd87d60ddd7b97e2901a83821bc url=https://ndownloader.figshare.com/files/19659371
+extracted SoilHealthDB/data/SoilHealthDB_V1.xlsx (6332969 bytes, CRC ok) sha256=de8241c65cd7ce3c251b1aa7d26131b5bf04b867173494e51cef7231e9116dbd
+extracted SoilHealthDB/data/SoilHealthDB_V1.csv (3555540 bytes, CRC ok) sha256=8c02445c408bbf4d7353b08c340e604af4b670772f068cf8a5b7a3f4703d2e58
+extracted SoilHealthDB/data/other_data/Koeppen-Geiger-ASCII.txt (2680093 bytes, CRC ok) sha256=9b00fa69a3168cb5baaa5beb0606eb57c57d05dbd63534361188c64a372f3d46

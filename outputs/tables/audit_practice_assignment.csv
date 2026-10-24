@@ -1,0 +1,44 @@
+Conservation_Type,Tillage_Diff,practice,rows
+CC,NA,Cover crop,2408
+AF,NA,Agroforestry,1107
+CC,No,Cover crop,533
+CC-NT,No,Cover crop,448
+OF,NA,Organic management,260
+OF-CC,NA,Organic management,180
+NT,NA,No-till / reduced tillage,179
+CC-NT,Yes,NA,130
+SR,NA,Residue retention,68
+NT-SR,NA,NA,62
+CC,NO,Cover crop,45
+CC-NT,NA,Cover crop,43
+CC-NT-SR,NA,NA,42
+RT,NA,No-till / reduced tillage,40
+RD,NA,NA,39
+CC,Yes,NA,36
+OF-CC,No,Organic management,28
+IN,NA,NA,26
+PF,NA,NA,26
+NT-CC-SR,NA,NA,24
+ST,NA,NA,23
+CC-NT,NO,Cover crop,22
+CC-RT,No,Cover crop,15
+NT,Yes,No-till / reduced tillage,15
+OF-CC,Yes,Organic management,15
+RO,NA,Crop rotation,15
+NT-SR,Yes,NA,13
+SR,Yes,Residue retention,13
+RT-SR,NA,NA,9
+OF,No,Organic management,7
+NT-CC,NA,NA,6
+NT-IN,NA,NA,6
+OF-NT,No,Organic management,4
+OF-NT,NA,Organic management,4
+RD-SR,NA,NA,4
+OF-NT,Yes,Organic management,2
+PF-RD,NA,NA,2
+RT-PF-RD,NA,NA,2
+RT-RD,NA,NA,2
+CC-RT,NA,Cover crop,1
+OF,Yes,Organic management,1
+RT-SD,NA,NA,1
+RT-SR-RD,NA,NA,1

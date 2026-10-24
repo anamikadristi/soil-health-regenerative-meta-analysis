@@ -1,0 +1,10 @@
+indicator,practice,k_analog,studies_analog,k_other,diff_lnRR,diff_lb,diff_ub,p
+SOC concentration,Cover crop,101,5,804,0.04158,-0.01596,0.09912,0.1561
+SOC concentration,No-till / reduced tillage,34,5,1,0.00551,-1.074,1.085,0.9894
+SOC concentration,Organic management,47,11,269,-0.008232,-0.1345,0.1181,0.8979
+SOC concentration,Residue retention,30,3,4,0.003793,-0.8592,0.8668,0.9897
+SOC stock,Organic management,19,7,129,0.05533,-0.1102,0.2209,0.5093
+Bulk density,Cover crop,58,4,507,0.004461,-0.02397,0.03289,0.7574
+Bulk density,No-till / reduced tillage,18,4,50,-0.01036,-0.1049,0.08416,0.8029
+Bulk density,Organic management,29,6,80,0.004903,-0.03225,0.04206,0.7937
+Microbial biomass C,Organic management,37,3,84,0.1147,-0.2137,0.443,0.4894

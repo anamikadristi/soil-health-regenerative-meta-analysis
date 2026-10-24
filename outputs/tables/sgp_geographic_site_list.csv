@@ -1,0 +1,7 @@
+study_id,author,pub_year,site_info,lat,lon,koppen,map_mm,practice,indicators,k
+38,Liebig,2005,"Bushland, TX",35.18,-102.08,BSk,NA,Cover crop,Aggregate stability; Microbial biomass C,4
+5,Blanco-Canqui,2013,"Garden City, KS",37.97,-100.87,BSk,489,Cover crop,Bulk density; SOC concentration; SOC stock,48
+4,Blanco-Canqui,2010,"Hesston,  KS",38.14,-97.43,Cfa,874,Cover crop,Bulk density; Infiltration rate; SOC concentration,20
+247,NA,1999,"Deweese, Nebraska, USA",40.2,-98.08,Dfa,693,Organic management,Bulk density; Infiltration rate; Microbial biomass C; SOC concentration; SOC stock,5
+78,Benjamin,2007,"Akron, CO",40.25,-101.25,BSk,NA,Cover crop,Aggregate stability; Bulk density; SOC concentration,12
+247,NA,1999,"Giltner, Nebraska, USA",40.35,-98.1,Dfa,693,Organic management,Bulk density; Infiltration rate; Microbial biomass C; SOC concentration; SOC stock,5

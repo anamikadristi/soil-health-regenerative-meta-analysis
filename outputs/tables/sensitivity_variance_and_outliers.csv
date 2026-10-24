@@ -1,0 +1,91 @@
+indicator,practice,analysis,k,studies,pct,pct_lb,pct_ub,p,I2_total
+SOC concentration,Cover crop,"A: reported SD, else mean-CV imputation (primary)",905,62,12.05,7.782,16.49,2.027e-7,69.85
+SOC concentration,Cover crop,B: mean-CV imputation for all rows,905,62,11.68,7.605,15.91,1.449e-7,56.78
+SOC concentration,Cover crop,C: complete cases (reported SD only),80,12,13.43,1.191,27.14,0.03345,94
+SOC concentration,Cover crop,D: imputed CV doubled (variance x4),905,62,10.69,7.095,14.4,6.413e-8,39.76
+SOC concentration,Cover crop,E: without |lnRR| > ln(3),904,61,10.49,7.266,13.81,6.915e-9,55.37
+SOC concentration,Cover crop,F: only rows with reported n,787,51,10.69,7.051,14.46,1.526e-7,56.63
+SOC concentration,No-till / reduced tillage,"A: reported SD, else mean-CV imputation (primary)",35,6,13,-11.15,43.72,0.2482,80.98
+SOC concentration,No-till / reduced tillage,B: mean-CV imputation for all rows,35,6,13,-11.15,43.72,0.2482,80.98
+SOC concentration,No-till / reduced tillage,C: complete cases (reported SD only),0,0,NA,NA,NA,NA,NA
+SOC concentration,No-till / reduced tillage,D: imputed CV doubled (variance x4),35,6,13.29,-9.476,41.78,0.2122,18.31
+SOC concentration,No-till / reduced tillage,E: without |lnRR| > ln(3),34,6,10.68,-10.87,37.45,0.2823,76.81
+SOC concentration,No-till / reduced tillage,F: only rows with reported n,35,6,13,-11.15,43.72,0.2482,80.98
+SOC concentration,Organic management,"A: reported SD, else mean-CV imputation (primary)",316,74,17.81,12.13,23.77,5.411e-9,99.52
+SOC concentration,Organic management,B: mean-CV imputation for all rows,316,74,18.69,12.22,25.54,4.806e-8,92.85
+SOC concentration,Organic management,C: complete cases (reported SD only),176,49,17.37,9.643,25.64,2.014e-5,99.77
+SOC concentration,Organic management,D: imputed CV doubled (variance x4),316,74,17.92,12.16,23.97,6.651e-9,99.49
+SOC concentration,Organic management,E: without |lnRR| > ln(3),312,74,16.42,10.99,22.12,1.684e-8,99.47
+SOC concentration,Organic management,F: only rows with reported n,315,73,17.83,12.1,23.86,6.973e-9,99.52
+SOC concentration,Residue retention,"A: reported SD, else mean-CV imputation (primary)",34,5,18.23,-13.58,61.73,0.2121,81.45
+SOC concentration,Residue retention,B: mean-CV imputation for all rows,34,5,18.23,-13.58,61.73,0.2121,81.45
+SOC concentration,Residue retention,C: complete cases (reported SD only),0,0,NA,NA,NA,NA,NA
+SOC concentration,Residue retention,D: imputed CV doubled (variance x4),34,5,20.62,-11.59,64.56,0.1691,36.27
+SOC concentration,Residue retention,E: without |lnRR| > ln(3),33,5,17.12,-13.08,57.82,0.2151,79.31
+SOC concentration,Residue retention,F: only rows with reported n,33,4,NA,NA,NA,NA,NA
+SOC concentration,Agroforestry,"A: reported SD, else mean-CV imputation (primary)",99,12,28.41,9.311,50.85,0.005747,83.43
+SOC concentration,Agroforestry,B: mean-CV imputation for all rows,99,12,28.68,9.477,51.24,0.00558,79.29
+SOC concentration,Agroforestry,C: complete cases (reported SD only),16,4,NA,NA,NA,NA,NA
+SOC concentration,Agroforestry,D: imputed CV doubled (variance x4),99,12,24.05,9.217,40.89,0.003352,55.7
+SOC concentration,Agroforestry,E: without |lnRR| > ln(3),99,12,28.41,9.311,50.85,0.005747,83.43
+SOC concentration,Agroforestry,F: only rows with reported n,52,6,23.53,0.7885,51.41,0.04436,71.23
+SOC stock,Cover crop,"A: reported SD, else mean-CV imputation (primary)",448,21,8.433,5.479,11.47,5.631e-6,23.35
+SOC stock,Cover crop,B: mean-CV imputation for all rows,448,21,8.336,5.268,11.49,1.095e-5,26.34
+SOC stock,Cover crop,C: complete cases (reported SD only),143,3,NA,NA,NA,NA,NA
+SOC stock,Cover crop,D: imputed CV doubled (variance x4),448,21,6.67,4.373,9.017,4.807e-6,2.417
+SOC stock,Cover crop,E: without |lnRR| > ln(3),448,21,8.433,5.479,11.47,5.631e-6,23.35
+SOC stock,Cover crop,F: only rows with reported n,419,14,8.569,5.203,12.04,8.07e-5,17.66
+SOC stock,Organic management,"A: reported SD, else mean-CV imputation (primary)",148,42,16.48,8.861,24.63,4.642e-5,99.63
+SOC stock,Organic management,B: mean-CV imputation for all rows,148,42,15.84,8.308,23.9,7.176e-5,90.85
+SOC stock,Organic management,C: complete cases (reported SD only),89,30,16.41,6.006,27.84,0.002444,99.82
+SOC stock,Organic management,D: imputed CV doubled (variance x4),148,42,16.71,8.9,25.08,5.416e-5,99.62
+SOC stock,Organic management,E: without |lnRR| > ln(3),148,42,16.48,8.861,24.63,4.642e-5,99.63
+SOC stock,Organic management,F: only rows with reported n,148,42,16.48,8.861,24.63,4.642e-5,99.63
+Bulk density,Cover crop,"A: reported SD, else mean-CV imputation (primary)",565,39,-1.819,-2.978,-0.647,0.003339,15.95
+Bulk density,Cover crop,B: mean-CV imputation for all rows,565,39,-1.576,-2.53,-0.6132,0.002088,7.485
+Bulk density,Cover crop,C: complete cases (reported SD only),36,5,-2.996,-11.22,5.994,0.3946,68.11
+Bulk density,Cover crop,D: imputed CV doubled (variance x4),565,39,-1.853,-3.467,-0.2121,0.02807,7.861
+Bulk density,Cover crop,E: without |lnRR| > ln(3),565,39,-1.819,-2.978,-0.647,0.003339,15.95
+Bulk density,Cover crop,F: only rows with reported n,510,30,-1.826,-3.218,-0.4147,0.01319,16.21
+Bulk density,No-till / reduced tillage,"A: reported SD, else mean-CV imputation (primary)",68,9,1.805,-2.043,5.805,0.3155,90.17
+Bulk density,No-till / reduced tillage,B: mean-CV imputation for all rows,68,9,1.926,-2.235,6.264,0.322,40.74
+Bulk density,No-till / reduced tillage,C: complete cases (reported SD only),54,5,1.388,-3.222,6.216,0.4571,90.88
+Bulk density,No-till / reduced tillage,D: imputed CV doubled (variance x4),68,9,1.59,-2.043,5.357,0.3471,88.67
+Bulk density,No-till / reduced tillage,E: without |lnRR| > ln(3),68,9,1.805,-2.043,5.805,0.3155,90.17
+Bulk density,No-till / reduced tillage,F: only rows with reported n,66,7,1.359,-3.014,5.929,0.4822,90.74
+Bulk density,Organic management,"A: reported SD, else mean-CV imputation (primary)",109,28,-3.864,-5.439,-2.263,4.035e-5,52.8
+Bulk density,Organic management,B: mean-CV imputation for all rows,109,28,-4.041,-5.685,-2.37,3.976e-5,43.42
+Bulk density,Organic management,C: complete cases (reported SD only),34,7,-4.22,-7.465,-0.8614,0.02219,53.29
+Bulk density,Organic management,D: imputed CV doubled (variance x4),109,28,-3.97,-5.767,-2.138,1.534e-4,24.31
+Bulk density,Organic management,E: without |lnRR| > ln(3),109,28,-3.864,-5.439,-2.263,4.035e-5,52.8
+Bulk density,Organic management,F: only rows with reported n,109,28,-3.864,-5.439,-2.263,4.035e-5,52.8
+Aggregate stability,Cover crop,"A: reported SD, else mean-CV imputation (primary)",123,16,8.575,0.3915,17.43,0.04084,8.667
+Aggregate stability,Cover crop,B: mean-CV imputation for all rows,123,16,8.239,-2.068,19.63,0.1124,14.49
+Aggregate stability,Cover crop,C: complete cases (reported SD only),8,3,NA,NA,NA,NA,NA
+Aggregate stability,Cover crop,D: imputed CV doubled (variance x4),123,16,6.839,-1.137,15.46,0.0892,5.767e-8
+Aggregate stability,Cover crop,E: without |lnRR| > ln(3),123,16,8.575,0.3915,17.43,0.04084,8.667
+Aggregate stability,Cover crop,F: only rows with reported n,119,15,8.295,-0.5198,17.89,0.06374,10.57
+Aggregate stability,Organic management,"A: reported SD, else mean-CV imputation (primary)",62,9,22.2,-4.948,57.11,0.103,97.84
+Aggregate stability,Organic management,B: mean-CV imputation for all rows,62,9,27.26,-5.644,71.63,0.1002,79.24
+Aggregate stability,Organic management,C: complete cases (reported SD only),20,5,55.57,-11.71,174.1,0.09623,99.72
+Aggregate stability,Organic management,D: imputed CV doubled (variance x4),62,9,24.1,-5.462,62.9,0.1046,98.17
+Aggregate stability,Organic management,E: without |lnRR| > ln(3),58,9,8.805,-4.406,23.84,0.1712,92.32
+Aggregate stability,Organic management,F: only rows with reported n,62,9,22.2,-4.948,57.11,0.103,97.84
+Microbial biomass C,Cover crop,"A: reported SD, else mean-CV imputation (primary)",176,20,22.07,8.432,37.42,0.002271,72.79
+Microbial biomass C,Cover crop,B: mean-CV imputation for all rows,176,20,22.01,8.328,37.42,0.002392,71.5
+Microbial biomass C,Cover crop,C: complete cases (reported SD only),8,1,NA,NA,NA,NA,NA
+Microbial biomass C,Cover crop,D: imputed CV doubled (variance x4),176,20,23.28,9.025,39.4,0.002068,26.33
+Microbial biomass C,Cover crop,E: without |lnRR| > ln(3),167,20,20.17,8.78,32.74,0.001049,63.24
+Microbial biomass C,Cover crop,F: only rows with reported n,161,17,20.39,5.225,37.74,0.009977,74.81
+Microbial biomass C,Organic management,"A: reported SD, else mean-CV imputation (primary)",121,20,18.19,3.652,34.78,0.0153,87.71
+Microbial biomass C,Organic management,B: mean-CV imputation for all rows,121,20,17.6,3.183,34.04,0.0178,77.15
+Microbial biomass C,Organic management,C: complete cases (reported SD only),67,13,15.1,-5.362,39.99,0.1435,93.01
+Microbial biomass C,Organic management,D: imputed CV doubled (variance x4),121,20,17.95,2.738,35.41,0.02163,85.73
+Microbial biomass C,Organic management,E: without |lnRR| > ln(3),121,20,18.19,3.652,34.78,0.0153,87.71
+Microbial biomass C,Organic management,F: only rows with reported n,121,20,18.19,3.652,34.78,0.0153,87.71
+Infiltration rate,Cover crop,"A: reported SD, else mean-CV imputation (primary)",30,7,67.4,29.55,116.3,0.002661,58.91
+Infiltration rate,Cover crop,B: mean-CV imputation for all rows,30,7,67.4,29.55,116.3,0.002661,58.91
+Infiltration rate,Cover crop,C: complete cases (reported SD only),0,0,NA,NA,NA,NA,NA
+Infiltration rate,Cover crop,D: imputed CV doubled (variance x4),30,7,71.7,29.66,127.4,0.003292,2.37e-11
+Infiltration rate,Cover crop,E: without |lnRR| > ln(3),28,7,58.04,27.84,95.37,0.001864,43.33
+Infiltration rate,Cover crop,F: only rows with reported n,28,6,68.69,25.86,126.1,0.005897,61.72

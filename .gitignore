@@ -1,0 +1,19 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+# Python
+__pycache__/
+*.pyc
+env/
+venv/
+# OS
+.DS_Store
+# Large derived objects (re-created by the scripts)
+data_processed/*.rds
+# Raw data are re-downloaded by python/00_fetch_soilhealthdb.py (checksums kept)
+data_raw/*
+!data_raw/download_log.txt
+# Processed data are re-created by R/01 and R/02
+data_processed/*

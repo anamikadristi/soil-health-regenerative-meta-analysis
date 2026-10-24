@@ -1,0 +1,27 @@
+indicator,practice,k,studies,pct_sd_reported,pct_n_imputed,median_lnRR,raw_mean_pct
+Aggregate stability,Agroforestry,3,1,0,100,0.115,19.7
+Aggregate stability,Cover crop,123,16,6.5,3.3,0.076,12.1
+Aggregate stability,No-till / reduced tillage,27,4,0,29.6,0.02,10.3
+Aggregate stability,Organic management,62,9,32.3,0,0.021,15.4
+Aggregate stability,Residue retention,2,1,0,0,0.14,15
+Bulk density,Agroforestry,24,4,50,25,-0.077,-6.6
+Bulk density,Cover crop,565,39,6.4,3.5,-0.007,-1.1
+Bulk density,No-till / reduced tillage,68,9,79.4,1.5,-0.008,2.1
+Bulk density,Organic management,109,28,31.2,0,-0.036,-3.8
+Bulk density,Residue retention,12,3,0,0,-0.043,-0.2
+Infiltration rate,Agroforestry,17,3,0,0,0.163,26.6
+Infiltration rate,Cover crop,30,7,0,6.7,0.486,70.2
+Infiltration rate,No-till / reduced tillage,5,2,0,100,0.09,7.5
+Infiltration rate,Organic management,5,1,0,0,0.242,93.7
+Infiltration rate,Residue retention,3,2,66.7,33.3,0.186,17.2
+Microbial biomass C,Cover crop,176,20,4.5,8.5,0.232,35.2
+Microbial biomass C,Organic management,121,20,55.4,0,0.097,12.2
+SOC concentration,Agroforestry,99,12,16.2,47.5,0.158,22.2
+SOC concentration,Cover crop,905,62,8.8,9,0.056,6.6
+SOC concentration,Crop rotation,3,1,0,0,0.018,1.9
+SOC concentration,No-till / reduced tillage,35,6,0,0,0.143,20.4
+SOC concentration,Organic management,316,74,55.7,0.3,0.108,17.9
+SOC concentration,Residue retention,34,5,0,0,0.205,29.9
+SOC stock,Cover crop,448,21,31.9,2.7,0.054,6.4
+SOC stock,No-till / reduced tillage,4,1,0,100,0.374,46
+SOC stock,Organic management,148,42,60.1,0,0.107,13.7

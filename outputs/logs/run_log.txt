@@ -1,0 +1,20 @@
+== 01_load_clean ==  2026-10-23 14:16:36 
+Rows in SoilHealthDB_V1.xlsx Sheet1: 5907; columns: 270; papers (StudyID): 321 
+Rows assigned to a practice: 5453 of 5907 
+Candidate comparisons (practice assigned, both means present): 3427 
+Rows dropped by measurement screening: 83 
+Rows dropped because a mean was <= 0: 0 
+Final comparisons: 3344 from 186 papers; grassland/pasture rows: 172; sgp_geo rows: 94; sgp_climate rows: 492 
+Koppen classes assigned: 3336 of 3344 
+== 02_effect_sizes == 
+Effect sizes: 3344; with reported SD (both or one arm): 745 (22.3%); |lnRR| > ln(3): 25 
+== 03_random_effects == 
+Cells pooled: 15 
+== 04_moderators == 
+SOC concentration, practice as moderator: F(4,151) = 1.81, p = 0.13, k = 1389 
+== 05_bias_sensitivity == 
+Funnel plots written 
+== 07_great_plains_subset == 
+SGP geographic rows: 94 from 5 papers; climate-analog rows: 492 from 26 papers 
+== 06_figures == 
+Figures written to outputs/figures 

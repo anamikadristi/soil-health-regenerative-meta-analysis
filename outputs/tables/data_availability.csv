@@ -1,0 +1,27 @@
+indicator,practice,k,studies,experiments,pct_with_sd,sgp_geo_k,sgp_climate_k,analysed
+SOC concentration,Cover crop,905,62,335,8.8,28,101,TRUE
+SOC concentration,No-till / reduced tillage,35,6,12,0,0,34,TRUE
+SOC concentration,Organic management,316,74,239,55.7,2,47,TRUE
+SOC concentration,Residue retention,34,5,12,0,0,30,TRUE
+SOC concentration,Agroforestry,99,12,35,16.2,0,1,TRUE
+SOC concentration,Crop rotation,3,1,3,0,0,0,FALSE
+SOC stock,Cover crop,448,21,140,31.9,16,71,TRUE
+SOC stock,No-till / reduced tillage,4,1,1,0,0,0,FALSE
+SOC stock,Organic management,148,42,116,60.1,2,19,TRUE
+Bulk density,Cover crop,565,39,211,6.4,28,58,TRUE
+Bulk density,No-till / reduced tillage,68,9,24,79.4,0,18,TRUE
+Bulk density,Organic management,109,28,88,30.3,2,29,TRUE
+Bulk density,Residue retention,12,3,3,0,0,7,FALSE
+Bulk density,Agroforestry,24,4,6,50,0,3,FALSE
+Aggregate stability,Cover crop,123,16,53,6.5,5,5,TRUE
+Aggregate stability,No-till / reduced tillage,27,4,13,0,0,3,FALSE
+Aggregate stability,Organic management,62,9,48,32.3,0,13,TRUE
+Aggregate stability,Residue retention,2,1,2,0,0,2,FALSE
+Aggregate stability,Agroforestry,3,1,3,0,0,3,FALSE
+Microbial biomass C,Cover crop,176,20,68,4.5,3,4,TRUE
+Microbial biomass C,Organic management,121,20,88,51.2,2,37,TRUE
+Infiltration rate,Cover crop,30,7,14,0,4,4,TRUE
+Infiltration rate,No-till / reduced tillage,5,2,2,0,0,0,FALSE
+Infiltration rate,Organic management,5,1,5,0,2,3,FALSE
+Infiltration rate,Residue retention,3,2,2,66.7,0,0,FALSE
+Infiltration rate,Agroforestry,17,3,5,0,0,0,FALSE

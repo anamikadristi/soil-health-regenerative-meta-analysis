@@ -1,0 +1,125 @@
+indicator,comment,measure_decision,rows
+Aggregate stability,Mean weight diameter (mm),keep: stability index,43
+Aggregate stability,Water-stable macroaggregates,keep: stability index,36
+Aggregate stability,NA,keep: unspecified (database default g/kg WSA),23
+Aggregate stability,>0.25 mm agg,keep: stability index,16
+Aggregate stability,Sum of 0.25 to 8 (mm),keep: stability index,16
+Aggregate stability,Water stable aggregate (%),keep: stability index,16
+Aggregate stability,Aggregate stability ratio (%),keep: stability index,9
+Aggregate stability,"Units (%), < 0.84 mm aggregates",drop: single size class or erodible fraction,8
+Aggregate stability,Water stable aggregates (WSA) < 2 but > 0.5,drop: single size class or erodible fraction,7
+Aggregate stability,Water stable aggregates (WSA) > 2 ( g per g to %),drop: single size class or erodible fraction,7
+Aggregate stability,>250 mum (%),keep: stability index,6
+Aggregate stability,Water stable aggregates %,keep: stability index,6
+Aggregate stability,DMP,drop: single size class or erodible fraction,5
+Aggregate stability,Water stable aggregates (%),keep: stability index,5
+Aggregate stability,0.5-0.25 mm agg,drop: single size class or erodible fraction,4
+Aggregate stability,4.75-2 mm,drop: single size class or erodible fraction,4
+Aggregate stability,>0.25 %,keep: stability index,4
+Aggregate stability,>10mm,drop: single size class or erodible fraction,4
+Aggregate stability,ALL,keep: stability index,4
+Aggregate stability,Aggregate mean weight diameter (mm),keep: stability index,4
+Aggregate stability,Macro-aggregates,keep: stability index,4
+Aggregate stability,Mass of water stable aggregates >250 mm expressed as a proportion of the total soil mass,keep: stability index,4
+Aggregate stability,g/g,keep: stability index,4
+Aggregate stability,> 19.2 mm aggregates,drop: single size class or erodible fraction,3
+Aggregate stability,>0.25 mm aggregation %,keep: stability index,3
+Aggregate stability,Mean-weight diameter (mm),keep: stability index,3
+Aggregate stability,Wet sieving index,keep: stability index,3
+Aggregate stability,% water stable macroaggregation,keep: stability index,2
+Aggregate stability,>2mm,drop: single size class or erodible fraction,2
+Aggregate stability,Dry sieving MWD (mm),keep: stability index,2
+Aggregate stability,Wet sieving MWD (mm),keep: stability index,2
+Aggregate stability,>0.25mm aggregation,keep: stability index,1
+Aggregate stability,>1mm aggregate %,drop: single size class or erodible fraction,1
+Aggregate stability,Agg stability %,keep: stability index,1
+Bulk density,NA,keep,766
+Bulk density,Tbale 8,keep,8
+Bulk density,Fig 2b,keep,4
+Infiltration rate,NA,keep,19
+Infiltration rate,cm/h,keep,11
+Infiltration rate,cm/min,keep,5
+Infiltration rate,cm/h to mm per h,keep,4
+Infiltration rate,mm/min,keep,4
+Infiltration rate,"Site1, mm/s = mm/h*3600",keep,3
+Infiltration rate,"Site2, mm/s = mm/h*3600",keep,3
+Infiltration rate,Accumulated infiltration (mm/min to cm/h),keep,2
+Infiltration rate,Cummulative water infiltration (cm) Figure 7 panel A,keep,2
+Infiltration rate,Cummulative water infiltration (cm) Figure 7 panel B,keep,2
+Infiltration rate,"Site3, mm/s = mm/h*3600",keep,2
+Infiltration rate,mm per min,keep,2
+Infiltration rate,"cm per day, at 4 cm surface",keep,1
+Microbial biomass C,NA,keep,121
+Microbial biomass C,mu g per g,keep,30
+Microbial biomass C,Kg/ha,keep,27
+Microbial biomass C,Total microbial Biomass,keep,18
+Microbial biomass C,mg per kg,keep,18
+Microbial biomass C,mu g per g soil,keep,15
+Microbial biomass C,mg/kg,keep,13
+Microbial biomass C,mg/g,keep,8
+Microbial biomass C,SMBC,keep,6
+Microbial biomass C,"Total microbial Biomass, measurement of phospholipid fatty acids",drop: not chloroform-fumigation MBC,6
+Microbial biomass C,Kg per ha,keep,5
+Microbial biomass C,Chloroform fumigation±extraction method,keep,4
+Microbial biomass C,g/kg to mg/kg,keep,4
+Microbial biomass C,mg C per kg soil per 10 day,drop: not chloroform-fumigation MBC,4
+Microbial biomass C,mu g C per g soil,keep,4
+Microbial biomass C,mu g per ml,keep,4
+Microbial biomass C,mg per g to mg per kg,keep,3
+Microbial biomass C,mu g per g = mg per kg,keep,3
+Microbial biomass C,Kg C per ha,keep,2
+Microbial biomass C,mg per kg soil,keep,2
+Microbial biomass C,12,keep,1
+Microbial biomass C,35,keep,1
+Microbial biomass C,58,keep,1
+Microbial biomass C,62,keep,1
+Microbial biomass C,"Fig 1, kg/ha to mg per kg",keep,1
+Microbial biomass C,m g per kg,keep,1
+Microbial biomass C,nmol per kg to mgkg-1,keep,1
+Microbial biomass C,nmol per kg to mgkg-2,keep,1
+Microbial biomass C,nmol per kg to mgkg-3,keep,1
+Microbial biomass C,nmol per kg to mgkg-4,keep,1
+SOC concentration,NA,keep,749
+SOC concentration,%,keep,366
+SOC concentration,g/kg to %,keep,60
+SOC concentration,SOC,keep,49
+SOC concentration,SOM,keep,48
+SOC concentration,"SOM, g per kg = 0.1%",keep,36
+SOC concentration,SOM (%),keep,12
+SOC concentration,% OM,keep,10
+SOC concentration,SOM (g/kg to %),keep,9
+SOC concentration,OC,keep,8
+SOC concentration,TC (g/kg to %),drop: total carbon (TC),8
+SOC concentration,OC (%),keep,6
+SOC concentration,TC (g/kg) to %,drop: total carbon (TC),6
+SOC concentration,mg c per kg soil to %,keep,5
+SOC concentration,OM,keep,4
+SOC concentration,"Organic carbon units correction, from 55g/kg to 5.5g/kg, see study 116",keep,4
+SOC concentration,TC,drop: total carbon (TC),4
+SOC concentration,TC (%),drop: total carbon (TC),4
+SOC concentration,"TC, g per kg = 0.1%",drop: total carbon (TC),4
+SOC concentration,1 + increase% (table 2),keep,3
+SOC concentration,"OM, Number of year is 8",keep,3
+SOC concentration,SOC (g/kg) to %,keep,3
+SOC concentration,Units in literature may wrong (mg/kg should be g/kg to %),keep,3
+SOC concentration,OM*0.58 to OC,keep,2
+SOC concentration,Organic Matter,keep,2
+SOC concentration,SOC %,keep,2
+SOC concentration,"SOC, g/kg to %",keep,2
+SOC concentration,TC (g*kg to %),drop: total carbon (TC),2
+SOC concentration,g/kg,keep,2
+SOC concentration,"g/kg to %, LOI",keep,2
+SOC concentration,mg/g to %,keep,2
+SOC stock,Mg c per ha,keep,210
+SOC stock,OC,keep,135
+SOC stock,Mg per ha,keep,127
+SOC stock,"Mg c per ha, from table 6 study ID 93",keep,21
+SOC stock,NA,keep,21
+SOC stock,TOC (*0.00061*100 to %),keep,20
+SOC stock,"SOC, Units in Mg per Ha available",keep,16
+SOC stock,"TC, kg per ha to, should be Mg per ha, otherwise data not in the right magnitude after unit convertion",keep,16
+SOC stock,kg c per m3,keep,12
+SOC stock,Mg/ha,keep,9
+SOC stock,"TOC, Mg per ha = 0.073 %",keep,7
+SOC stock,%,keep,4
+SOC stock,t per ha,keep,2

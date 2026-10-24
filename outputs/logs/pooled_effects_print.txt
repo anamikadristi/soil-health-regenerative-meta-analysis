@@ -1,0 +1,32 @@
+             indicator                  practice   k studies  % change [95% CI]
+1    SOC concentration                Cover crop 905      62   12.1 [7.8, 16.5]
+2    SOC concentration No-till / reduced tillage  35       6 13.0 [-11.2, 43.7]
+3    SOC concentration        Organic management 316      74  17.8 [12.1, 23.8]
+4    SOC concentration         Residue retention  34       5 18.2 [-13.6, 61.7]
+5    SOC concentration              Agroforestry  99      12   28.4 [9.3, 50.9]
+6            SOC stock                Cover crop 448      21    8.4 [5.5, 11.5]
+7            SOC stock        Organic management 148      42   16.5 [8.9, 24.6]
+8         Bulk density                Cover crop 565      39  -1.8 [-3.0, -0.6]
+9         Bulk density No-till / reduced tillage  68       9    1.8 [-2.0, 5.8]
+10        Bulk density        Organic management 109      28  -3.9 [-5.4, -2.3]
+11 Aggregate stability                Cover crop 123      16    8.6 [0.4, 17.4]
+12 Aggregate stability        Organic management  62       9  22.2 [-4.9, 57.1]
+13 Microbial biomass C                Cover crop 176      20   22.1 [8.4, 37.4]
+14 Microbial biomass C        Organic management 121      20   18.2 [3.7, 34.8]
+15   Infiltration rate                Cover crop  30       7 67.4 [29.5, 116.3]
+       robust CI       p   I2     tau2
+1    [7.8, 16.5] 2.0e-07 69.9 0.020800
+2  [-14.7, 49.8] 2.5e-01 81.0 0.115000
+3   [12.1, 23.8] 5.4e-09 99.5 0.061000
+4  [-15.3, 64.9] 2.1e-01 81.5 0.110000
+5    [9.4, 50.8] 5.7e-03 83.4 0.064900
+6    [5.5, 11.5] 5.6e-06 23.4 0.002590
+7    [8.9, 24.6] 4.6e-05 99.6 0.054300
+8   [-3.0, -0.6] 3.3e-03 16.0 0.000731
+9    [-2.8, 6.6] 3.2e-01 90.2 0.004960
+10  [-5.5, -2.2] 4.0e-05 52.8 0.002630
+11   [0.2, 17.7] 4.1e-02  8.7 0.006840
+12  [-5.7, 58.3] 1.0e-01 97.8 0.127000
+13   [8.3, 37.6] 2.3e-03 72.8 0.097100
+14   [3.6, 34.8] 1.5e-02 87.7 0.099300
+15 [27.4, 119.9] 2.7e-03 58.9 0.142000

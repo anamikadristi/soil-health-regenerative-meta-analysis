@@ -1,0 +1,16 @@
+indicator,practice,k,studies,ml_egger_slope,ml_egger_p,timelag_slope_per_yr,timelag_p,study_level_tau2_method,study_level_pct,egger_z,egger_p,trimfill_method,trimfill_missing,trimfill_side,trimfill_pct,trimfill_pct_lb,trimfill_pct_ub,loo_min_pct,loo_max_pct,loo_n_nonsig,loo_n_sig,base_p
+SOC concentration,Cover crop,905,62,-0.1387,0.3851,2.006e-4,0.9198,REML,13.17,0.6949,0.4871,REML,0,left,13.17,8.35,18.2,10.49,12.37,0,62,2.027e-7
+SOC concentration,No-till / reduced tillage,35,6,-0.04518,0.9636,0.01526,0.5494,REML,10.08,NA,NA,REML,0,right,10.08,-2.95,24.87,1.699,21.78,6,0,0.2482
+SOC concentration,Organic management,316,74,-0.06738,0.5931,8.847e-4,0.8331,REML,19.24,-0.6416,0.5212,REML,20,right,30.11,22.83,37.82,16.48,18.39,0,74,5.411e-9
+SOC concentration,Residue retention,34,5,-0.3233,0.6423,-0.001473,0.9654,REML,18.63,NA,NA,REML,0,right,18.63,-4.63,47.56,6.174,25.24,5,0,0.2121
+SOC concentration,Agroforestry,99,12,-0.1687,0.9091,0.002181,0.8346,REML,29.19,2.326,0.02,REML,0,left,29.19,10.51,51.02,21.64,31.11,0,12,0.005747
+SOC stock,Cover crop,448,21,0.01545,0.8551,6.305e-4,0.6084,REML,6.969,1.979,0.04783,REML,4,left,5.625,1.874,9.513,7.682,8.811,0,21,5.631e-6
+SOC stock,Organic management,148,42,-0.08823,0.5821,0.001865,0.7435,REML,17.72,-1.24,0.2149,REML,12,right,26.58,18.56,35.13,14.56,17.41,0,42,4.642e-5
+Bulk density,Cover crop,565,39,0.0101,0.8141,-0.001029,0.05666,REML,-2.077,0.7487,0.454,PM,11,left,-2.803,-3.915,-1.677,-1.972,-1.144,0,39,0.003339
+Bulk density,No-till / reduced tillage,68,9,-0.2969,0.08076,-0.003976,0.4939,REML,2.656,NA,NA,REML,0,left,2.656,-1.185,6.646,1.071,2.901,9,0,0.3155
+Bulk density,Organic management,109,28,0.06843,0.1439,-6.134e-4,0.6002,REML,-3.925,1.239,0.2153,REML,7,left,-5.067,-6.854,-3.246,-4.135,-3.472,0,28,4.035e-5
+Aggregate stability,Cover crop,123,16,0.7276,0.09598,-0.01071,0.03001,REML,6.094,0.4908,0.6235,REML,4,left,0.5323,-9.155,11.25,6.624,11.07,10,6,0.04084
+Aggregate stability,Organic management,62,9,0.6685,0.1535,0.04964,0.06179,REML,16.78,NA,NA,REML,0,left,16.78,-5.034,43.61,13.85,29.14,9,0,0.103
+Microbial biomass C,Cover crop,176,20,0.5621,0.3941,-0.003818,0.5993,REML,19.43,0.04625,0.9631,REML,0,left,19.43,8.988,30.88,18.09,24.57,0,20,0.002271
+Microbial biomass C,Organic management,121,20,-0.07067,0.8438,0.006484,0.5333,REML,21.27,-0.9139,0.3608,REML,0,right,21.27,6.349,38.29,13.83,21.89,0,20,0.0153
+Infiltration rate,Cover crop,30,7,-1.297,0.5803,0.006562,0.4994,REML,59.49,NA,NA,REML,2,right,79.8,41.89,127.8,52.65,81.31,0,7,0.002661

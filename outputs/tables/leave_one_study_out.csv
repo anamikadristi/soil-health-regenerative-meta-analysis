@@ -1,0 +1,371 @@
+left_out,pct,pct_lb,pct_ub,p,indicator,practice
+100,11.98,7.63,16.51,3.715e-7,SOC concentration,Cover crop
+101,12.23,7.88,16.76,2.31e-7,SOC concentration,Cover crop
+102,12.25,7.91,16.77,2.096e-7,SOC concentration,Cover crop
+103,12.23,7.899,16.74,2.076e-7,SOC concentration,Cover crop
+104,12.23,7.872,16.75,2.345e-7,SOC concentration,Cover crop
+106,12.16,7.811,16.68,2.594e-7,SOC concentration,Cover crop
+107,12.2,7.851,16.73,2.425e-7,SOC concentration,Cover crop
+108,11.71,7.469,16.12,3.5620000000000003e-07,SOC concentration,Cover crop
+109,12.12,7.763,16.65,2.9e-7,SOC concentration,Cover crop
+110,11.86,7.558,16.33,3.604e-7,SOC concentration,Cover crop
+111,12.16,7.794,16.69,2.8e-7,SOC concentration,Cover crop
+112,12.26,7.944,16.76,1.824e-7,SOC concentration,Cover crop
+116,11.66,7.419,16.06,3.873e-7,SOC concentration,Cover crop
+117,12.24,7.905,16.75,2.088e-7,SOC concentration,Cover crop
+13,12.13,7.763,16.67,3e-7,SOC concentration,Cover crop
+141,12.33,7.996,16.84,1.742e-7,SOC concentration,Cover crop
+153,12.33,7.977,16.85,1.886e-7,SOC concentration,Cover crop
+157,12.11,7.759,16.64,2.885e-7,SOC concentration,Cover crop
+169,12.14,7.773,16.67,2.923e-7,SOC concentration,Cover crop
+177,12.1,7.734,16.63,3.149e-7,SOC concentration,Cover crop
+187,12.34,8.009,16.84,1.648e-7,SOC concentration,Cover crop
+188,12.1,7.743,16.64,3.076e-7,SOC concentration,Cover crop
+19,12.1,7.739,16.65,3.14e-7,SOC concentration,Cover crop
+190,11.93,7.589,16.45,3.888e-7,SOC concentration,Cover crop
+197,12.26,7.864,16.83,2.714e-7,SOC concentration,Cover crop
+198,10.71,7.23,14.31,2.949e-8,SOC concentration,Cover crop
+199,12.15,7.788,16.69,2.834e-7,SOC concentration,Cover crop
+2,12.25,7.932,16.73,1.832e-7,SOC concentration,Cover crop
+201,12.19,7.835,16.73,2.572e-7,SOC concentration,Cover crop
+202,12.05,7.687,16.59,3.435e-7,SOC concentration,Cover crop
+206,12.24,7.898,16.76,2.143e-7,SOC concentration,Cover crop
+208,11.85,7.553,16.31,3.558e-7,SOC concentration,Cover crop
+25,12.37,8.068,16.84,1.342e-7,SOC concentration,Cover crop
+283,11.25,7.271,15.38,2.154e-7,SOC concentration,Cover crop
+284,12.17,7.805,16.7,2.725e-7,SOC concentration,Cover crop
+29,12.2,7.839,16.74,2.561e-7,SOC concentration,Cover crop
+39,12.08,7.737,16.6,2.941e-7,SOC concentration,Cover crop
+4,12.05,7.686,16.58,3.415e-7,SOC concentration,Cover crop
+40,12.17,7.804,16.71,2.768e-7,SOC concentration,Cover crop
+42,12.09,7.73,16.64,3.198e-7,SOC concentration,Cover crop
+47,12.13,7.784,16.65,2.711e-7,SOC concentration,Cover crop
+5,11.94,7.593,16.46,3.906e-7,SOC concentration,Cover crop
+57,12.11,7.758,16.64,2.899e-7,SOC concentration,Cover crop
+60,12.15,7.792,16.69,2.816e-7,SOC concentration,Cover crop
+66,12.04,7.704,16.55,3.051e-7,SOC concentration,Cover crop
+67,12.15,7.792,16.69,2.82e-7,SOC concentration,Cover crop
+72,11.77,7.496,16.22,3.772e-7,SOC concentration,Cover crop
+78,11.96,7.625,16.47,3.57e-7,SOC concentration,Cover crop
+79,12.05,7.699,16.57,3.238e-7,SOC concentration,Cover crop
+83,12.15,7.79,16.69,2.805e-7,SOC concentration,Cover crop
+86,12.15,7.792,16.69,2.826e-7,SOC concentration,Cover crop
+87,12.24,7.888,16.77,2.269e-7,SOC concentration,Cover crop
+88,12.17,7.812,16.71,2.673e-7,SOC concentration,Cover crop
+89,12.26,7.909,16.78,2.145e-7,SOC concentration,Cover crop
+90,10.49,7.266,13.81,6.915e-9,SOC concentration,Cover crop
+91,12.22,7.863,16.75,2.396e-7,SOC concentration,Cover crop
+92,12.11,7.746,16.65,3.098e-7,SOC concentration,Cover crop
+93,12.22,7.869,16.75,2.361e-7,SOC concentration,Cover crop
+96,12.26,7.914,16.78,2.101e-7,SOC concentration,Cover crop
+97,11.86,7.535,16.36,4.065e-7,SOC concentration,Cover crop
+98,11.92,7.574,16.43,4.003e-7,SOC concentration,Cover crop
+99,11.99,7.644,16.52,3.591e-7,SOC concentration,Cover crop
+291,1.699,-15.34,22.17,0.8112,SOC concentration,No-till / reduced tillage
+310,11.11,-17.39,49.43,0.3797,SOC concentration,No-till / reduced tillage
+311,14.65,-14.03,52.89,0.2578,SOC concentration,No-till / reduced tillage
+312,12.76,-14.72,49.1,0.2985,SOC concentration,No-till / reduced tillage
+313,21.78,-4.3,54.97,0.08572,SOC concentration,No-till / reduced tillage
+316,15.45,-15.23,57.22,0.2662,SOC concentration,No-till / reduced tillage
+207,17.71,11.95,23.77,1.007e-8,SOC concentration,Organic management
+209,17.74,11.98,23.79,9.483e-9,SOC concentration,Organic management
+210,17.41,11.75,23.37,1.039e-8,SOC concentration,Organic management
+211,16.91,11.47,22.63,8.126e-9,SOC concentration,Organic management
+212,17.97,12.21,24.03,6.424e-9,SOC concentration,Organic management
+213,17.77,12.06,23.78,7.222e-9,SOC concentration,Organic management
+214,18.07,12.3,24.13,5.708e-9,SOC concentration,Organic management
+215,17.79,12.02,23.85,9.02e-9,SOC concentration,Organic management
+216,17.68,11.92,23.74,1.062e-8,SOC concentration,Organic management
+217,17.99,12.23,24.05,6.376e-9,SOC concentration,Organic management
+218,18.01,12.25,24.06,5.974e-9,SOC concentration,Organic management
+219,18.24,12.52,24.25,3.298e-9,SOC concentration,Organic management
+220,17.86,12.12,23.9,7.01e-9,SOC concentration,Organic management
+221,17.84,12.1,23.87,7.281e-9,SOC concentration,Organic management
+222,17.97,12.21,24.03,6.554e-9,SOC concentration,Organic management
+223,17.85,12.07,23.94,8.91e-9,SOC concentration,Organic management
+224,18.19,12.48,24.2,3.572e-9,SOC concentration,Organic management
+225,18.38,12.7,24.34,2.113e-9,SOC concentration,Organic management
+226,17.98,12.25,24.02,5.703e-9,SOC concentration,Organic management
+227,17.67,11.91,23.72,1.072e-8,SOC concentration,Organic management
+228,17.89,12.15,23.92,6.747e-9,SOC concentration,Organic management
+229,17.59,11.85,23.64,1.129e-8,SOC concentration,Organic management
+230,18.26,12.48,24.34,4.517e-9,SOC concentration,Organic management
+231,16.74,11.43,22.3,5.342e-9,SOC concentration,Organic management
+232,16.89,11.42,22.62,9.248e-9,SOC concentration,Organic management
+233,17.73,11.98,23.77,9.107e-9,SOC concentration,Organic management
+234,17.89,12.15,23.91,6.616e-9,SOC concentration,Organic management
+235,17.66,11.92,23.7,9.917e-9,SOC concentration,Organic management
+236,17.97,12.22,24.01,6.253e-9,SOC concentration,Organic management
+237,18,12.24,24.04,6.018e-9,SOC concentration,Organic management
+238,17.85,12.09,23.91,8.022e-9,SOC concentration,Organic management
+239,17.91,12.1,24.01,8.949e-9,SOC concentration,Organic management
+240,16.93,11.48,22.64,7.901e-9,SOC concentration,Organic management
+241,17.96,12.22,23.99,5.979e-9,SOC concentration,Organic management
+242,17.9,12.15,23.93,6.698e-9,SOC concentration,Organic management
+243,18.09,12.34,24.13,5.096e-9,SOC concentration,Organic management
+244,17.68,11.94,23.72,9.631e-9,SOC concentration,Organic management
+245,18.04,12.29,24.09,5.596e-9,SOC concentration,Organic management
+246,17.61,11.88,23.65,1.04e-8,SOC concentration,Organic management
+247,17.62,11.87,23.67,1.101e-8,SOC concentration,Organic management
+248,17.81,12.07,23.84,7.627e-9,SOC concentration,Organic management
+249,18.34,12.62,24.34,2.842e-9,SOC concentration,Organic management
+250,17.92,12.16,23.97,6.901e-9,SOC concentration,Organic management
+251,17.78,12.04,23.8,7.835e-9,SOC concentration,Organic management
+252,16.48,11.33,21.86,3.521e-9,SOC concentration,Organic management
+253,17.84,11.99,23.99,1.225e-8,SOC concentration,Organic management
+254,17.36,11.69,23.32,1.157e-8,SOC concentration,Organic management
+255,18.06,12.34,24.07,4.546e-9,SOC concentration,Organic management
+256,18.39,12.72,24.34,2.006e-9,SOC concentration,Organic management
+257,18.04,12.29,24.08,5.482e-9,SOC concentration,Organic management
+258,18.06,12.29,24.13,5.897e-9,SOC concentration,Organic management
+259,17.95,12.13,24.07,8.993e-9,SOC concentration,Organic management
+260,17.95,12.2,23.99,6.221e-9,SOC concentration,Organic management
+261,17.55,11.81,23.57,1.158e-8,SOC concentration,Organic management
+262,17.98,12.24,24.01,5.696e-9,SOC concentration,Organic management
+263,18.32,12.53,24.4,4.182e-9,SOC concentration,Organic management
+264,17.35,11.7,23.3,1.091e-8,SOC concentration,Organic management
+265,17.91,12.15,23.97,7.083e-9,SOC concentration,Organic management
+266,18.1,12.39,24.1,4.103e-9,SOC concentration,Organic management
+267,17.13,11.59,22.95,8.988e-9,SOC concentration,Organic management
+268,17.92,12.13,24,7.983e-9,SOC concentration,Organic management
+269,17.76,12.01,23.8,8.765e-9,SOC concentration,Organic management
+270,18.06,12.29,24.13,5.934e-9,SOC concentration,Organic management
+271,17.88,12.14,23.92,6.82e-9,SOC concentration,Organic management
+272,17.96,12.19,24.03,7.09e-9,SOC concentration,Organic management
+273,18.02,12.28,24.04,5.281e-9,SOC concentration,Organic management
+274,17.6,11.87,23.63,1.046e-8,SOC concentration,Organic management
+275,17.98,12.16,24.11,8.777e-9,SOC concentration,Organic management
+276,17.97,12.23,24.01,5.94e-9,SOC concentration,Organic management
+277,18.18,12.44,24.21,4.209e-9,SOC concentration,Organic management
+278,17.35,11.69,23.3,1.136e-8,SOC concentration,Organic management
+279,17.75,11.99,23.81,9.464e-9,SOC concentration,Organic management
+280,18.12,12.38,24.15,4.51e-9,SOC concentration,Organic management
+281,17.83,12.1,23.86,6.973e-9,SOC concentration,Organic management
+291,6.174,-21.93,44.4,0.5792,SOC concentration,Residue retention
+293,23.36,-19.22,88.39,0.2126,SOC concentration,Residue retention
+295,14.12,-23.7,70.69,0.3732,SOC concentration,Residue retention
+313,25.24,-13.48,81.31,0.1482,SOC concentration,Residue retention
+316,21.32,-23.24,91.73,0.2717,SOC concentration,Residue retention
+118,29.35,8.151,54.71,0.009434,SOC concentration,Agroforestry
+119,24.72,5.942,46.82,0.01297,SOC concentration,Agroforestry
+134,30.18,9.026,55.43,0.007825,SOC concentration,Agroforestry
+136,31.11,10.42,55.67,0.005592,SOC concentration,Agroforestry
+137,28.65,7.197,54.39,0.0117,SOC concentration,Agroforestry
+165,30.05,8.57,55.77,0.008822,SOC concentration,Agroforestry
+172,29.71,8.522,55.05,0.008726,SOC concentration,Agroforestry
+173,31.09,10.26,55.86,0.005872,SOC concentration,Agroforestry
+175,30.55,9.657,55.43,0.006706,SOC concentration,Agroforestry
+176,29.75,8.164,55.64,0.009668,SOC concentration,Agroforestry
+286,25.65,6.128,48.76,0.01305,SOC concentration,Agroforestry
+305,21.64,8.338,36.57,0.003667,SOC concentration,Agroforestry
+100,7.981,5.047,11,1.281e-5,SOC stock,Cover crop
+101,8.771,5.691,11.94,6.884e-6,SOC stock,Cover crop
+103,8.644,5.626,11.75,6.414e-6,SOC stock,Cover crop
+104,8.58,5.519,11.73,8.514e-6,SOC stock,Cover crop
+106,8.558,5.492,11.71,8.986e-6,SOC stock,Cover crop
+107,8.763,5.647,11.97,8.08e-6,SOC stock,Cover crop
+108,7.918,5.145,10.76,6.878e-6,SOC stock,Cover crop
+109,8.474,5.383,11.66,1.138e-5,SOC stock,Cover crop
+111,8.544,5.355,11.83,1.514e-5,SOC stock,Cover crop
+13,8.424,5.248,11.7,1.731e-5,SOC stock,Cover crop
+202,8.249,5.14,11.45,1.735e-5,SOC stock,Cover crop
+206,8.728,5.728,11.81,5.181e-6,SOC stock,Cover crop
+40,8.547,5.39,11.8,1.327e-5,SOC stock,Cover crop
+5,7.872,5.02,10.8,1.067e-5,SOC stock,Cover crop
+60,8.636,5.539,11.82,9.083e-6,SOC stock,Cover crop
+91,8.711,5.571,11.94,9.684e-6,SOC stock,Cover crop
+92,8.371,5.211,11.63,1.759e-5,SOC stock,Cover crop
+93,8.775,5.675,11.97,7.445e-6,SOC stock,Cover crop
+96,8.811,5.802,11.91,4.752e-6,SOC stock,Cover crop
+98,7.682,5.045,10.38,5.32e-6,SOC stock,Cover crop
+99,8.084,5.101,11.15,1.337e-5,SOC stock,Cover crop
+211,15,7.832,22.63,8.056e-5,SOC stock,Organic management
+215,16.57,8.747,24.96,6.499e-5,SOC stock,Organic management
+218,16.75,8.968,25.1,5.127e-5,SOC stock,Organic management
+220,16.59,8.8,24.95,6.016e-5,SOC stock,Organic management
+221,16.56,8.763,24.91,6.224e-5,SOC stock,Organic management
+222,16.89,9.111,25.22,4.458e-5,SOC stock,Organic management
+224,17.41,9.848,25.5,1.786e-5,SOC stock,Organic management
+225,17.36,9.669,25.58,2.422e-5,SOC stock,Organic management
+226,16.82,9.03,25.17,4.858e-5,SOC stock,Organic management
+227,16.28,8.463,24.65,8.285e-5,SOC stock,Organic management
+228,16.61,8.82,24.97,5.907e-5,SOC stock,Organic management
+229,15.94,8.245,24.19,9.078e-5,SOC stock,Organic management
+230,17.4,9.491,25.88,3.602e-5,SOC stock,Organic management
+231,14.56,7.895,21.65,4.445e-5,SOC stock,Organic management
+232,14.68,7.88,21.91,5.239e-5,SOC stock,Organic management
+233,16.79,8.986,25.16,5.132e-5,SOC stock,Organic management
+234,16.67,8.862,25.04,5.756e-5,SOC stock,Organic management
+235,16.19,8.422,24.51,8.233e-5,SOC stock,Organic management
+236,16.81,9.01,25.16,4.987e-5,SOC stock,Organic management
+237,16.61,8.904,24.86,5.02e-5,SOC stock,Organic management
+238,16.48,8.681,24.85,6.747e-5,SOC stock,Organic management
+239,16.66,8.717,25.19,7.436e-5,SOC stock,Organic management
+240,15,7.819,22.67,8.337e-5,SOC stock,Organic management
+241,16.66,8.865,25.01,5.671e-5,SOC stock,Organic management
+242,16.66,8.878,25,5.532e-5,SOC stock,Organic management
+243,16.73,9.025,24.99,4.505e-5,SOC stock,Organic management
+244,16.35,8.532,24.73,7.827e-5,SOC stock,Organic management
+245,16.6,8.808,24.96,5.971e-5,SOC stock,Organic management
+246,15.92,8.259,24.13,8.699e-5,SOC stock,Organic management
+247,16.37,8.549,24.75,7.703e-5,SOC stock,Organic management
+248,16.59,8.799,24.94,6.003e-5,SOC stock,Organic management
+251,16.42,8.642,24.76,6.841e-5,SOC stock,Organic management
+262,16.7,8.906,25.05,5.465e-5,SOC stock,Organic management
+263,17.25,9.305,25.77,4.411e-5,SOC stock,Organic management
+266,17.06,9.349,25.32,3.356e-5,SOC stock,Organic management
+268,17.06,9.113,25.58,5.241e-5,SOC stock,Organic management
+271,16.59,8.788,24.94,6.1e-5,SOC stock,Organic management
+273,16.78,8.991,25.12,5.014e-5,SOC stock,Organic management
+274,16.11,8.321,24.47,9.233e-5,SOC stock,Organic management
+278,15.99,8.234,24.3,9.645e-5,SOC stock,Organic management
+279,16.48,8.619,24.92,7.558e-5,SOC stock,Organic management
+280,16.93,9.17,25.23,4.136e-5,SOC stock,Organic management
+102,-1.848,-3.028,-0.6544,0.003435,Bulk density,Cover crop
+104,-1.881,-3.068,-0.6789,0.003139,Bulk density,Cover crop
+106,-1.836,-3.014,-0.6435,0.003596,Bulk density,Cover crop
+107,-1.882,-3.084,-0.6659,0.003452,Bulk density,Cover crop
+108,-1.834,-3.001,-0.6521,0.003366,Bulk density,Cover crop
+109,-1.829,-3.009,-0.6358,0.003732,Bulk density,Cover crop
+110,-1.972,-3.131,-0.8,0.00165,Bulk density,Cover crop
+111,-1.904,-3.098,-0.6962,0.002954,Bulk density,Cover crop
+130,-1.7,-2.869,-0.5178,0.006152,Bulk density,Cover crop
+15,-1.809,-2.981,-0.623,0.003882,Bulk density,Cover crop
+16,-1.822,-2.998,-0.6322,0.003764,Bulk density,Cover crop
+195,-1.144,-1.841,-0.4409,0.002203,Bulk density,Cover crop
+206,-1.763,-2.949,-0.5636,0.00521,Bulk density,Cover crop
+283,-1.778,-2.959,-0.5815,0.004778,Bulk density,Cover crop
+284,-1.803,-2.994,-0.5981,0.004534,Bulk density,Cover crop
+29,-1.825,-3.028,-0.6072,0.004477,Bulk density,Cover crop
+320,-1.815,-2.991,-0.6256,0.003871,Bulk density,Cover crop
+4,-1.823,-3.011,-0.6197,0.004098,Bulk density,Cover crop
+40,-1.812,-2.984,-0.6263,0.003825,Bulk density,Cover crop
+5,-1.703,-2.881,-0.5115,0.006439,Bulk density,Cover crop
+57,-1.783,-2.957,-0.5944,0.004439,Bulk density,Cover crop
+60,-1.781,-2.974,-0.5731,0.005081,Bulk density,Cover crop
+61,-1.834,-3.037,-0.6151,0.004331,Bulk density,Cover crop
+66,-1.839,-3.008,-0.6566,0.003308,Bulk density,Cover crop
+67,-1.787,-2.985,-0.573,0.005146,Bulk density,Cover crop
+68,-1.918,-3.082,-0.74,0.002225,Bulk density,Cover crop
+78,-1.848,-3.022,-0.6588,0.003327,Bulk density,Cover crop
+83,-1.887,-3.064,-0.695,0.002843,Bulk density,Cover crop
+86,-1.792,-2.985,-0.5852,0.004813,Bulk density,Cover crop
+87,-1.891,-3.079,-0.6891,0.003001,Bulk density,Cover crop
+88,-1.829,-3.016,-0.6272,0.003955,Bulk density,Cover crop
+89,-1.963,-3.13,-0.7812,0.001856,Bulk density,Cover crop
+90,-1.835,-3.001,-0.6546,0.003315,Bulk density,Cover crop
+91,-1.874,-3.077,-0.6554,0.00363,Bulk density,Cover crop
+92,-1.823,-2.999,-0.6327,0.003755,Bulk density,Cover crop
+94,-1.892,-3.086,-0.6828,0.003144,Bulk density,Cover crop
+96,-1.861,-3.046,-0.6613,0.003382,Bulk density,Cover crop
+98,-1.661,-2.807,-0.5003,0.006367,Bulk density,Cover crop
+99,-1.842,-3.026,-0.6439,0.003639,Bulk density,Cover crop
+291,2.372,-1.787,6.707,0.2232,Bulk density,No-till / reduced tillage
+294,2.244,-2.542,7.265,0.3098,Bulk density,No-till / reduced tillage
+295,1.451,-2.545,5.611,0.4246,Bulk density,No-till / reduced tillage
+300,2.901,-2.679,8.801,0.2646,Bulk density,No-till / reduced tillage
+302,2.15,-4.316,9.052,0.467,Bulk density,No-till / reduced tillage
+306,2.101,-2.1,6.483,0.2802,Bulk density,No-till / reduced tillage
+310,1.071,-2.529,4.804,0.5097,Bulk density,No-till / reduced tillage
+315,2.021,-2.221,6.447,0.302,Bulk density,No-till / reduced tillage
+320,1.742,-2.412,6.072,0.3599,Bulk density,No-till / reduced tillage
+207,-3.889,-5.602,-2.145,1.15e-4,Bulk density,Organic management
+211,-3.821,-5.423,-2.193,6.175e-5,Bulk density,Organic management
+214,-4.001,-5.63,-2.344,4.331e-5,Bulk density,Organic management
+215,-3.764,-5.411,-2.087,1.056e-4,Bulk density,Organic management
+218,-3.939,-5.539,-2.313,4.137e-5,Bulk density,Organic management
+221,-3.904,-5.505,-2.275,4.736e-5,Bulk density,Organic management
+223,-3.844,-5.464,-2.195,6.671e-5,Bulk density,Organic management
+224,-3.472,-5.06,-1.858,1.726e-4,Bulk density,Organic management
+225,-4.071,-5.674,-2.44,2.805e-5,Bulk density,Organic management
+227,-3.993,-5.693,-2.262,7.653e-5,Bulk density,Organic management
+228,-3.892,-5.479,-2.278,4.369e-5,Bulk density,Organic management
+230,-3.848,-5.462,-2.206,6.284e-5,Bulk density,Organic management
+231,-3.837,-5.431,-2.216,5.524e-5,Bulk density,Organic management
+233,-3.776,-5.377,-2.149,7.072e-5,Bulk density,Organic management
+235,-4.021,-5.673,-2.339,4.907e-5,Bulk density,Organic management
+238,-3.955,-5.566,-2.317,4.324e-5,Bulk density,Organic management
+240,-3.703,-5.286,-2.093,7.865e-5,Bulk density,Organic management
+241,-3.986,-5.568,-2.378,3.077e-5,Bulk density,Organic management
+247,-3.673,-5.284,-2.034,1.074e-4,Bulk density,Organic management
+248,-3.83,-5.431,-2.201,6.009e-5,Bulk density,Organic management
+253,-3.761,-5.416,-2.078,1.119e-4,Bulk density,Organic management
+262,-3.949,-5.532,-2.339,3.514e-5,Bulk density,Organic management
+266,-3.886,-5.473,-2.272,4.468e-5,Bulk density,Organic management
+268,-3.485,-5.084,-1.858,1.805e-4,Bulk density,Organic management
+272,-4.135,-5.761,-2.481,2.764e-5,Bulk density,Organic management
+273,-3.922,-5.505,-2.312,3.855e-5,Bulk density,Organic management
+274,-3.866,-5.463,-2.243,5.137e-5,Bulk density,Organic management
+279,-3.904,-5.531,-2.249,5.781e-5,Bulk density,Organic management
+112,8.887,-0.8723,19.61,0.07218,Aggregate stability,Cover crop
+199,8.921,-0.1468,18.81,0.05348,Aggregate stability,Cover crop
+208,9.825,1.761,18.53,0.01957,Aggregate stability,Cover crop
+25,8.909,0.1178,18.47,0.04728,Aggregate stability,Cover crop
+29,8.509,-1.356,19.36,0.08744,Aggregate stability,Cover crop
+31,7.121,-0.1278,14.9,0.05377,Aggregate stability,Cover crop
+38,8.295,-0.5198,17.89,0.06374,Aggregate stability,Cover crop
+42,8.143,-0.833,17.93,0.0731,Aggregate stability,Cover crop
+6,11.07,4.28,18.29,0.003072,Aggregate stability,Cover crop
+61,6.624,-5.182e-4,13.69,0.05002,Aggregate stability,Cover crop
+66,8.745,0.2624,17.94,0.04393,Aggregate stability,Cover crop
+67,8.381,-0.3239,17.85,0.05831,Aggregate stability,Cover crop
+68,8.867,0.06389,18.44,0.04851,Aggregate stability,Cover crop
+78,7.663,-0.627,16.64,0.06815,Aggregate stability,Cover crop
+86,8.381,-0.3239,17.85,0.05831,Aggregate stability,Cover crop
+92,8.873,0.197,18.3,0.045469999999999997,Aggregate stability,Cover crop
+207,26.33,-6.611,70.88,0.1101,Aggregate stability,Organic management
+210,13.85,-8.196,41.2,0.1971,Aggregate stability,Organic management
+230,25.81,-7.382,70.9,0.1196,Aggregate stability,Organic management
+233,22.2,-6.132,59.1,0.1153,Aggregate stability,Organic management
+254,27.42,-6.55,73.73,0.1071,Aggregate stability,Organic management
+261,29.14,-2.021,70.2,0.0647,Aggregate stability,Organic management
+264,15.66,-10.91,50.15,0.229,Aggregate stability,Organic management
+272,24.28,-7.724,67.4,0.1279,Aggregate stability,Organic management
+279,22.65,-8.753,64.85,0.1467,Aggregate stability,Organic management
+112,22.9,8.591,39.09,0.002557,Microbial biomass C,Cover crop
+13,22.15,7.31,39.04,0.00449,Microbial biomass C,Cover crop
+187,18.09,8.941,28.01,4.013e-4,Microbial biomass C,Cover crop
+190,23.55,9.349,39.61,0.001881,Microbial biomass C,Cover crop
+195,22.2,7.756,38.58,0.003577,Microbial biomass C,Cover crop
+2,22.09,8.024,38,0.003017,Microbial biomass C,Cover crop
+29,20.39,6.347,36.29,0.005619,Microbial biomass C,Cover crop
+38,21.73,7.154,38.28,0.00455,Microbial biomass C,Cover crop
+40,22.4,8.281,38.35,0.002764,Microbial biomass C,Cover crop
+43,22.55,8.2,38.81,0.002985,Microbial biomass C,Cover crop
+44,22.63,7.995,39.25,0.003393,Microbial biomass C,Cover crop
+6,23.16,8.87,39.34,0.002297,Microbial biomass C,Cover crop
+66,22.33,8.194,38.3,0.002864,Microbial biomass C,Cover crop
+68,24.57,10.69,40.19,0.00103,Microbial biomass C,Cover crop
+7,23.95,9.911,39.79,0.001459,Microbial biomass C,Cover crop
+70,20.04,6.491,35.31,0.004918,Microbial biomass C,Cover crop
+72,20.54,6.78,36.08,0.004568,Microbial biomass C,Cover crop
+76,22.14,7.98,38.15,0.003121,Microbial biomass C,Cover crop
+92,22.24,7.996,38.36,0.003154,Microbial biomass C,Cover crop
+95,22.42,8.429,38.22,0.002548,Microbial biomass C,Cover crop
+207,17.06,2.037,34.31,0.02691,Microbial biomass C,Organic management
+224,20.09,5.069,37.26,0.01,Microbial biomass C,Organic management
+225,18.18,2.893,35.73,0.0208,Microbial biomass C,Organic management
+227,18.77,3.282,36.58,0.01862,Microbial biomass C,Organic management
+228,18.02,2.905,35.36,0.02053,Microbial biomass C,Organic management
+233,18.33,3.138,35.77,0.01915,Microbial biomass C,Organic management
+244,17.65,2.593,34.91,0.0226,Microbial biomass C,Organic management
+247,17.17,2.203,34.34,0.02548,Microbial biomass C,Organic management
+250,18.48,3.369,35.8,0.01768,Microbial biomass C,Organic management
+251,18.53,3.391,35.88,0.01758,Microbial biomass C,Organic management
+253,16.68,1.75,33.8,0.02933,Microbial biomass C,Organic management
+255,21.89,7.289,38.48,0.004355,Microbial biomass C,Organic management
+256,19.02,3.624,36.69,0.0166,Microbial biomass C,Organic management
+259,17.2,2.332,34.23,0.02435,Microbial biomass C,Organic management
+261,19.49,4.057,37.22,0.0145,Microbial biomass C,Organic management
+263,17.93,2.569,35.59,0.02312,Microbial biomass C,Organic management
+269,13.83,1.292,27.92,0.03152,Microbial biomass C,Organic management
+272,16.28,1.567,33.11,0.03085,Microbial biomass C,Organic management
+278,21.55,7.243,37.77,0.004218,Microbial biomass C,Organic management
+279,18,2.725,35.56,0.02192,Microbial biomass C,Organic management
+110,66.65,17.48,136.4,0.01323,Infiltration rate,Cover crop
+113,71.48,30.89,124.7,0.00367,Infiltration rate,Cover crop
+130,68.69,25.86,126.1,0.005897,Infiltration rate,Cover crop
+4,59.01,18.43,113.5,0.009857,Infiltration rate,Cover crop
+42,71.28,27.2,130.6,0.005585,Infiltration rate,Cover crop
+60,52.65,13.84,104.7,0.0139,Infiltration rate,Cover crop
+61,81.31,41.14,132.9,0.001704,Infiltration rate,Cover crop
